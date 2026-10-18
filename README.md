@@ -1,7 +1,6 @@
 
-# 👋 Hi, I'm Christian Romano
+👋 Hi, I'm Christian Romano
 
-> First, solve the problem. Then, write the code.
 
 ---
 
